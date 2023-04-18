@@ -1,0 +1,37 @@
+M.  Pittman,  B.  Reich,  "Social  media  and loneliness:  Why an Instagram picture  may be  worth  more  than  a  thousand  Twitter words," Computers in Human Behavior, vol. 62, pp. 155 - 167, 2016.
+
+
+
+H. Watanabe, M. Bouazizi, and T. Ohtsuki, “Hate speech on twitter:
+A pragmatic approach to collect hateful and offensive expressions and
+perform hate speech detection,” IEEE access, vol. 6, pp. 13 825–13 835,
+2018.
+
+
+
+L. Ketsbaia, B. Issac, and X. Chen, “Detection of hate tweets using
+machine learning and deep learning,” in 2020 IEEE 19th International
+Conference on Trust, Security and Privacy in Computing and Communications (TrustCom). IEEE, 2020, pp. 751–758.
+
+
+
+Gahagan, Kassandra, J. Mitchell Vitellius, and Libby R. Frost. “College student cyberbullying on social networking sites: Conceptualization, prevalence, and perceived bystander responsibility.” Computers in human behavior 55 (2016): 1097-1105.
+
+
+
+S. Hinduja and J. Patchin, “Bullying, Cyberbullying, and Suicide”, Archives of Suicide Research, vol.
+14, no. 3, pp. 206-221, 2010
+
+
+V. Banerjee, J. Telavane, P. Gaikwad, and P. Vartak, “Detection of cyberbullying using deep neural network,” in 2019 5th International Conference on Advanced Computing & Communication Systems (ICACCS).
+IEEE, 2019, pp. 604–607.
+
+
+J Yadav, D Kumar, D Chauhan
+Cyberbullying detection using pre-trained bert model
+2020 International Conference on Electronics and Sustainable Communication Systems (ICESC), p. 1096 - 1100
+Posted: 2020
+
+
+M. Dadvar, D. Trieschnigg, R. Ordelman, F. Jong,  “Improving  Cyberbullying  Detection 
+  with  User  Context,”  Advances  in Information  Retrieval,  vol.  78,  pp.  693  – 696, 2013.
